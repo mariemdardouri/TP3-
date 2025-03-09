@@ -1,0 +1,2 @@
+Line 1 of feature1
+Line 2 of feature1
