@@ -1,2 +1,3 @@
 Line 1 of feature2
 Line 2 of feature2
+Line 3 of feature2
